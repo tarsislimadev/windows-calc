@@ -1,2 +1,7 @@
-# windows-calc
-Calc in C#
+# Windows Calc
+
+The best Windows Calculator
+
+## license
+
+[MIT](./LICENSE)
